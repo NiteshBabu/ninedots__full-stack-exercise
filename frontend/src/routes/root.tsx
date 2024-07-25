@@ -20,7 +20,7 @@ export default function Root() {
       <Layout>
         <Header style={{ display: 'flex', alignItems: 'center' }}>
           <div className="demo-logo">
-            <Typography.Title level={3} style={{ margin: 0, color: 'white' }}>Commute Simulator</Typography.Title>
+            <Typography.Title level={1} style={{ margin: 0, color: 'white' }}>Commute Simulator</Typography.Title>
           </div>
         </Header>
         <Content>
